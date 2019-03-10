@@ -1,0 +1,1 @@
+java -jar ~/Documents/swagger-codegen-cli.jar generate -i https://developers.strava.com/swagger/swagger.json -l go -o .

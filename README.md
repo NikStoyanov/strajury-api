@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/NikStoyanov/strajury-api.svg?branch=master)](https://travis-ci.org/NikStoyanov/strajury-api)
+
 # Go API client for swagger
 
 Strava API

@@ -10,5 +10,6 @@
 package swagger
 
 // A pair of latitude/longitude coordinates, represented as an array of 2 floating point numbers.
-type LatLng struct {
-}
+
+// See https://groups.google.com/forum/#!topic/strava-api/0EBIhSSsAws
+type LatLng []float32
